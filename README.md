@@ -26,7 +26,7 @@ https://makecode.microbit.org/_EYqP41iKJM1E
 
 https://makecode.microbit.org/_Mwc4pU3oDYWc
 
-### Code sample #3 - game "space invaders"
+### Code sample #4 - game "space invaders"
 
 **Javascript:**
 
