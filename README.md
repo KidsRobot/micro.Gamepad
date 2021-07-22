@@ -18,4 +18,10 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 
 **Javascript:**
 
-https://makecode.microbit.org/_Avsd74ChHDtq
+https://makecode.microbit.org/_cDX6uAd9J5w7
+
+### Code sample #2 - game "pong"
+
+**Javascript:**
+
+https://makecode.microbit.org/_Mwc4pU3oDYWc
