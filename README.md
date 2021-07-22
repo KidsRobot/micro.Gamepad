@@ -6,7 +6,7 @@
 
 Product link: https://kidsrobot.ca/product/micro-gamepad
 
-![micro:Gamepad](https://kidsrobot.ca/storage/app/media/cB2ciTPGq6pQ1AyF2kNbSe7chzXdXTElviG6yXNy.jpeg)
+![micro:Gamepad](https://kidsrobot.ca/storage/app/media/gD9D9CHqTKjGBdecu9MeNtsu6rKdCdGhuUo52U66.jpeg)
 
 <br>
 
