@@ -26,6 +26,12 @@ https://makecode.microbit.org/_EYqP41iKJM1E
 
 https://makecode.microbit.org/_Mwc4pU3oDYWc
 
+### Code sample #3 - game "frogger"
+
+**Javascript:**
+
+https://makecode.microbit.org/_0k1APcbobLPM
+
 ### Code sample #4 - game "space invaders"
 
 **Javascript:**
