@@ -37,3 +37,9 @@ https://makecode.microbit.org/_0k1APcbobLPM
 **Javascript:**
 
 https://makecode.microbit.org/_4fKV7vLecJyc
+
+### Code sample #5 - game "space tetris"
+
+**Javascript:**
+
+https://makecode.microbit.org/_gfMFHf7qz6Mh
