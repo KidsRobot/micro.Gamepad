@@ -20,6 +20,10 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 
 https://makecode.microbit.org/_847UxuY0bD7k
 
+**Python:**
+
+https://makecode.microbit.org/_fJAckCH6mE0U
+
 ### Code sample #2 - game "pong"
 
 **Javascript:**
