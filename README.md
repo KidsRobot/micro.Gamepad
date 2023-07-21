@@ -28,6 +28,10 @@ https://makecode.microbit.org/_fJAckCH6mE0U
 
 https://makecode.microbit.org/_Mwc4pU3oDYWc
 
+**Python:**
+
+https://makecode.microbit.org/_Tsj6e9DEoEMM
+
 ### Code sample #3 - game "frogger"
 
 **Javascript:**
